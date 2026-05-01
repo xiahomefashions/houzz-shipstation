@@ -1,0 +1,2 @@
+invoice_date,invoice_id,po_number,invoice_terms_type,invoice_terms_net_days,line_item_basis_of_unit_price,line_item_quantity,line_item_unit_price,line_item_sku,invoice_total_amount,shipping_service_level_code,ship_carrier,ship_method,invoice_handling_amount,invoice_freight_amount
+2026-04-30T00:00:00-05:00,0238209253,0238209253,01,30,QT,1,10.90,XD750291248,10.90,FECG,FEDEX,Ground,,
